@@ -48,7 +48,7 @@ export default function Navbar() {
                     <div className="flex items-center justify-between h-20">
                         {/* Logo */}
                         <Link to="/" className={`font-serif text-2xl tracking-wide transition-colors duration-300 ${textColor}`}>
-                            MESOB
+                            Misoso
                         </Link>
 
                         {/* Desktop Nav */}
