@@ -112,8 +112,8 @@ export default function ContactPage() {
 
                                     <div>
                                         <p className="text-gold text-sm tracking-widest uppercase mb-2">{t('contact_email_label')}</p>
-                                        <a href="mailto:hello@mesob.design" className="text-lg hover:text-gold transition-colors">
-                                            hello@mesob.design
+                                        <a href="mailto:hello@misoso.design" className="text-lg hover:text-gold transition-colors">
+                                            hello@misoso.design
                                         </a>
                                     </div>
 

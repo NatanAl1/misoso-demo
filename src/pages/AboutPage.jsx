@@ -30,7 +30,7 @@ export default function AboutPage() {
                             <div className="relative">
                                 <img
                                     src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80"
-                                    alt="Mesob Interior Design"
+                                    alt="Misoso Interior Design"
                                     className="w-full aspect-[4/5] object-cover"
                                 />
                                 {/* Decorative frame */}
@@ -62,7 +62,7 @@ export default function AboutPage() {
                 </div>
             </section>
 
-            {/* Mesob-inspired decorative divider */}
+            {/* Misoso-inspired decorative divider */}
             <div className="flex justify-center py-8">
                 <div className="flex gap-2 items-center">
                     {[...Array(9)].map((_, i) => (
@@ -124,7 +124,7 @@ export default function AboutPage() {
                                 ),
                                 titleEn: 'Communion',
                                 titleAm: 'ኅብረት',
-                                descEn: 'Like the mesob that brings people together, our spaces are designed to connect, comfort, and inspire togetherness.',
+                                descEn: 'Like the misoso that brings people together, our spaces are designed to connect, comfort, and inspire togetherness.',
                                 descAm: 'ሰዎችን አንድ ላይ እንደሚያመጣው መሶብ ቦታዎቻችን ለማገናኘት፣ ለማጽናናት እና ኅብረትን ለማነሳሳት የተነደፉ ናቸው።',
                             },
                         ].map((value, i) => (
